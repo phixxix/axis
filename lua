@@ -1,4 +1,4 @@
-script_key="INSERT YOU'RE KEY";
+script_key="INSERT YOU'RE KEY";https://github.com/lofaif1234/axis/blob/main/lua
 shared.Saved = {
     ["Universal"] = {
         ["Indicators"] = { ["Enabled"] = true },
